@@ -7,6 +7,7 @@
 <h2>FERRAMENTAS QUE IREI APRENDER</h2>
 <table>
   <head>
+    <th>POWER BI</th>
     <th>PYTHON</th>
     <th>HTML</th>
     <th>GitHub</th>
@@ -14,6 +15,7 @@
   </head>
   <body>
     <tr>
+      <th>Pendente</th>
       <th>Em curso</th>
       <th>Pendente</th>
       <th>Em curso</th>
