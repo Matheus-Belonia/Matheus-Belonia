@@ -39,7 +39,7 @@
     <tr>
       <th>Pendente</th>
       <th>Em curso</th>
-      <th>Pendente</th>
+      <th>Em curso</th>
       <th>Em curso</th>
       <th>Pendente</th>
     </tr>
